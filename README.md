@@ -1,3 +1,7 @@
+## 说明
+
+基于 ```seata TCC``` 模式的 **转账** 案例
+
 ## 服务
 * transfer-business 转账入口服务
 * transfer-out      账户转出服务
