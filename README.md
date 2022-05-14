@@ -1,6 +1,15 @@
 ## 说明
 
-基于 ```seata TCC``` 模式的 **转账** 案例
+基于 ```Spring Cloud``` +  ```Seata``` 的 **转账** 案例
+
+* Seata 1.4.2 (TCC 模式)
+* Mybatis 2.0.0
+* Druid 1.1.10 
+* Spring Cloud Greenwich.SR2
+* MySql
+  - OpenFeign
+  - Eureka 
+
 
 ## 服务
 * transfer-business 转账入口服务
